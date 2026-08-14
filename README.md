@@ -11,7 +11,7 @@
 <a href="https://github.com/iam-ankur01">
 <img src="https://img.shields.io/badge/GitHub-iam--ankur01-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ankur-mishra01/">
+<a href="https://www.linkedin.com/in/ankurmishra01/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
