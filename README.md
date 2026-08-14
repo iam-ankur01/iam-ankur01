@@ -1,48 +1,71 @@
-# 👋 Hi, I'm Ankur
+<div align="center">
 
-### 🤖 AI Engineer | GenAI | RAG | Agentic AI | Backend Systems
+# 👋 Hey, I'm Ankur
 
-I build **AI-powered applications and intelligent systems** with a focus on Generative AI, RAG, Agentic AI, and scalable backend architecture.
+### 🤖 AI Engineer • GenAI • RAG • Agentic AI
 
-I'm currently focused on turning AI concepts into **real-world products** — from intelligent agents and RAG pipelines to production-ready SaaS systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Engineering+RAG+%26+Agentic+AI+systems;Turning+LLMs+into+real-world+applications;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/iam-ankur01">
+<img src="https://img.shields.io/badge/GitHub-iam--ankur01-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ankur-mishra01/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm an **AI Engineer focused on building intelligent, production-oriented applications**.
+
+My main interests are:
+
+* 🧠 Generative AI & LLM applications
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🤖 Agentic AI & intelligent workflows
+* 🕸️ LangGraph & tool-using agents
+* ⚡ FastAPI & backend engineering
+* 🗄️ PostgreSQL & vector databases
+* 🏗️ Scalable AI/SaaS architecture
+
+I don't just want to experiment with AI models.
+
+> **I want to turn AI capabilities into useful products.**
 
 ---
 
 ## 🚀 What I'm Building
 
-* 🧠 **Generative AI & LLM Applications**
-* 🔎 **RAG Systems & AI Search**
-* 🤖 **Agentic AI & Multi-Agent Workflows**
-* 🕸️ **LangGraph-based AI Agents**
-* ⚡ **FastAPI & Backend Systems**
-* 🗄️ **PostgreSQL & Vector Databases**
-* ☁️ **Production-ready AI/SaaS Architecture**
-
-> **My goal:** Build AI systems that are useful, scalable, and actually solve problems.
-
----
-
-## 🧠 Currently Learning & Exploring
-
 ```text
-Generative AI
-     ↓
-RAG
-     ↓
-Agentic AI
-     ↓
-LLM Applications
-     ↓
-Scalable AI Systems
-     ↓
-Production & SaaS
+                ┌──────────────────────┐
+                │     AI ENGINEERING   │
+                └──────────┬───────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+       GenAI              RAG          Agentic AI
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                  LLM Applications
+                           │
+                           ▼
+                 Production Systems
+                           │
+                           ▼
+                      AI Products
 ```
 
-Currently going deeper into:
+### 🔭 Current Focus
 
 * Advanced RAG architectures
-* Agentic workflows
-* LLM evaluation & observability
+* Agentic workflows with LangGraph
+* LLM evaluation & reliability
 * AI automation
 * Backend architecture
 * Distributed systems
@@ -50,131 +73,267 @@ Currently going deeper into:
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 Featured Projects
 
-### 🤖 AI / Machine Learning
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+<table>
+<tr>
 
-### 🧠 Generative AI
+<td width="50%" valign="top">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-GenAI-blue?style=flat-square)
+<h3>🏛️ Athena</h3>
+
+<b>Intelligent Agentic RAG System</b>
+
+<p>
+A production-oriented AI application that lets users upload documents and intelligently search across documents, the web, and academic sources.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/RAG-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
+
+</p>
+
+<a href="https://github.com/iam-ankur01/Athena">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📈 Watch Market AI</h3>
+
+<b>Real-Time Market Value Analyzer</b>
+
+<p>
+An ML engineering project exploring market-value prediction with data ingestion, feature engineering, experiment tracking, model serving and production architecture.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-326CE5?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+
+</p>
+
+<a href="https://github.com/iam-ankur01/watch-market-ai">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎯 Hiresight</h3>
+
+<b>AI-powered Hiring Platform</b>
+
+<p>
+A full-stack AI project combining an AI layer with frontend and backend services to explore intelligent hiring workflows.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-181717?style=flat-square"/>
+
+</p>
+
+<a href="https://github.com/iam-ankur01/Hiresight">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📱 Mobile Price Prediction</h3>
+
+<b>MLflow-based ML Project</b>
+
+<p>
+A machine-learning project focused on model development and experiment tracking using MLflow.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+
+</p>
+
+<a href="https://github.com/iam-ankur01/Mobile-Price-Prediction-MLflow">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+</p>
 
 ### ⚙️ Backend & Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,git,github" />
+</p>
 
-### 💻 Development
+### 💻 Programming
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 Athena — Multi-Source Agentic Research Assistant
-
-An AI research system designed to combine multiple information sources and intelligently retrieve, reason over, and synthesize information.
-
-**Focus:** RAG · Agentic AI · LangGraph · Vector Search · LLMs
-
----
-
-### 🤖 NexusOS — AI Workspace
-
-A production-oriented AI workspace architecture focused on authentication, multi-tenancy, backend services, and AI integrations.
-
-**Focus:** FastAPI · PostgreSQL · Redis · RAG · JWT · SaaS Architecture
-
----
-
-### ☕ Cafe SaaS
-
-A full-stack SaaS platform designed to help cafes manage their digital operations.
-
-**Focus:** Backend Engineering · PostgreSQL · Authentication · SaaS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-ankur01&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ankur01&layout=compact&hide_border=true" height="170"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 </p>
 
 ---
 
-## 🧩 My Engineering Focus
+# 🧩 Engineering Interests
+
+<div align="center">
+
+|    AI Engineering   | Backend Engineering | Product Engineering |
+| :-----------------: | :-----------------: | :-----------------: |
+| 🧠 LLM Applications |      ⚡ FastAPI      |       🚀 SaaS       |
+|        🔎 RAG       |    🗄️ PostgreSQL   |    🤖 AI Products   |
+|    🤖 Agentic AI    |       🔴 Redis      |    ⚙️ Automation    |
+|    🕸️ LangGraph    |      🐳 Docker      |  🌍 Developer Tools |
+|   📊 AI Evaluation  |  🏗️ System Design  |     💡 Startups     |
+
+</div>
+
+---
+
+# 📚 Currently Learning
 
 ```text
-AI Engineering
-├── LLM Applications
-├── RAG
-├── Agentic AI
-├── AI Automation
-└── AI Evaluation
-
-Backend Engineering
-├── FastAPI
-├── PostgreSQL
-├── Redis
-├── APIs
-└── System Design
-
-Building Products
-├── SaaS
-├── AI Tools
-├── Developer Tools
-└── Automation
+                    ┌─────────────────┐
+                    │   Generative AI │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │       RAG       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Agentic AI    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ LLM Engineering│
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Backend Systems │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │  AI Products 🚀 │
+                    └─────────────────┘
 ```
 
 ---
 
-## 🎯 2026 Goals
+# 📈 Contribution Activity
 
-* 🚀 Build production-grade AI applications
-* 🤖 Go deeper into Agentic AI
-* 🧠 Master advanced RAG architectures
-* ⚙️ Improve backend & system design skills
-* 🌍 Contribute to open source
-* 💼 Work with a strong AI-focused team
-* 🛠️ Build AI products that people actually use
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ankur01&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
-## 🤝 Let's Connect
+</div>
 
-I'm always interested in:
+<br>
 
-* AI Engineering opportunities
-* GenAI projects
-* AI startups
-* Open-source collaboration
-* Building AI-powered products
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/iam-ankur01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-ankur01&theme=github_dark" width="95%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Shipping. 🤖</i>
-</p>
+# 🏆 GitHub
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/iam-ankur01?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/stars/iam-ankur01?affiliations=OWNER&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://komarev.com/ghpvc/?username=iam-ankur01&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 🎯 2026
+
+```text
+[✓] Learn GenAI
+[✓] Build RAG systems
+[✓] Explore LangGraph
+[→] Master Agentic AI
+[→] Build production AI systems
+[→] Improve system design
+[→] Contribute to open source
+[→] Build AI products
+```
+
+---
+
+# 💼 Open To
+
+I'm interested in connecting with people working on:
+
+**AI Engineering · GenAI · Agentic AI · AI Automation · AI Startups · SaaS · Open Source**
+
+If you're building something interesting with AI, I'd love to connect.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Intelligent
+
+<a href="https://github.com/iam-ankur01">
+<img src="https://img.shields.io/badge/GitHub-iam--ankur01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankur-mishra01/">
+<img src="https://img.shields.io/badge/LinkedIn-Ankur%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"/>
+
+</div>
